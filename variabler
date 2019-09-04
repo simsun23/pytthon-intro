@@ -1,0 +1,21 @@
+variabler
+namn och namngivning, camelcase
+
+
+operatorer
+
+=tilldelningsoperator
+
+datatyper
+string str sträng "alla tecken noterat med dubbelfnuttar eller enkel fnuttar"
+name = "myname"
+integer int heltal 235
+    
+   age = 1298 
+    
+    boolean sant eller falkst, true false
+    
+    winner = true
+exceptions
+
+syntax error skriv fel
