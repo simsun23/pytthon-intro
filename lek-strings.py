@@ -16,7 +16,9 @@ username += "."
 username += lastname[0:8].lower()
 username += "@"
 username += middlename[0:4].lower()
-
+username += "."
+username += "ga"
+username 
 print(username)
 
 #print(lastname.translate())
